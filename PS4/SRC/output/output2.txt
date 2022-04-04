@@ -1,0 +1,16 @@
+10
+A OR -B
+A
+A OR B
+-B OR C
+-A OR -C
+A OR -C
+-A OR B
+B OR -C
+-A OR C
+-A
+3
+C
+-B
+{}
+YES
